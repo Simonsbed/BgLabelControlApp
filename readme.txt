@@ -1,1 +1,1 @@
-<img width="863" alt="image" src="https://user-images.githubusercontent.com/60145951/162572357-a22b3d6f-9100-4dd5-8e68-4a2267de1e49.png">
+![캡처](https://github.com/Simonsbed/BgLabelControlApp/assets/87604547/d4f7a064-65bf-4b2a-9687-8e822e396c42)
