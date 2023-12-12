@@ -7,7 +7,7 @@
         <Setter Property="Template">
             <Setter.Value>
                 <ControlTemplate TargetType="local:BgLabelControl">
-                    <Grid Width="100" Height="100" Background="{TemplateBinding Background}">
+                    <Grid Width="500" Height="500" Background="{TemplateBinding Background}">
                         <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{TemplateBinding Label}"/>
                     </Grid>
                 </ControlTemplate>
